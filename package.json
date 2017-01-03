@@ -1,0 +1,19 @@
+{
+  "name": "purescript-cycle-adt-etch-sketch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "build": "pulp browserify --to dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@cycle/xstream-run": "^4.2.0",
+    "xstream": "^9.3.0"
+  }
+}

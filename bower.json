@@ -1,0 +1,22 @@
+{
+  "name": "purescript-cycle-adt-etch-sketch",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^2.1.0",
+    "purescript-console": "^2.0.0",
+    "purescript-xstream": "^0.7.0",
+    "purescript-cycle-run": "^0.5.0",
+    "purescript-sets": "^2.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^2.0.0"
+  },
+  "resolutions": {
+    "purescript-xstream": "^0.7.0"
+  }
+}
